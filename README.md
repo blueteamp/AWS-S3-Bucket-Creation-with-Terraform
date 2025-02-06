@@ -1,1 +1,3 @@
-Initial commit to make repository non-empty
+# My New Repository
+
+Welcome to the new repository! This is the README file.
